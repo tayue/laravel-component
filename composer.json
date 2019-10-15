@@ -1,0 +1,15 @@
+{
+    "name": "tylx/laravel-component",
+    "authors": [
+        {
+            "name": "tylx",
+            "email": "tayueliuxiang1@sina.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tylx\\Laravelpackagetest\\": "src/"
+        }
+    },
+    "require": {}
+}
